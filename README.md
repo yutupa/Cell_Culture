@@ -11,7 +11,7 @@
 * ## Books
     * ### [CELL CULTURE BASICS Handbook](Books/CellCultureBasicsEU.pdf) [(original link)](https://www.vanderbilt.edu/viibre/CellCultureBasicsEU.pdf)
 * ## References
-    * ### [A Guide to Understanding and Managing Cell Culture Contamination](https://www.chemie-brunschwig.ch/documents/suppliers-information/CLS-AN-020-cell-culture-contamination-guide-A4.pdf)
+    * ### [A Guide to Understanding and Managing Cell Culture Contamination](References/CLS-AN-020-cell-culture-contamination-guide-A4.pdf) [(original link)](https://www.chemie-brunschwig.ch/documents/suppliers-information/CLS-AN-020-cell-culture-contamination-guide-A4.pdf)
     * ### [Cell Culture: Avoid These 7 Common Mistakes in the Lab](https://www.sigmaaldrich.com/TW/en/technical-documents/technical-article/cell-culture-and-cell-culture-analysis/mammalian-cell-culture/cell-culture-common-mistakes)
     * ### [Cell Culture Contamination Troubleshooting](https://www.sigmaaldrich.com/TW/en/technical-documents/technical-article/cell-culture-and-cell-culture-analysis/mammalian-cell-culture/cell-culture-troubleshooting-contamination)
     * ### [Cell Culture Troubleshooting](https://www.sigmaaldrich.com/TW/en/applications/cell-culture-and-cell-culture-analysis/cell-culture-troubleshooting)
