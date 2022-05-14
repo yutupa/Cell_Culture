@@ -7,7 +7,7 @@
     4. ### [HeLa Cell Culture and Transfection](https://www.youtube.com/watch?v=d7SuAqPPPro)
     5. ### [Aseptic Techniques: Cell Culture Basics](https://www.youtube.com/watch?v=nr1tV_LuqJk)
 * ## Papers
-    * ### [Understanding and Managing Cell Culture Contamination](https://safety.fsu.edu/safety_manual/supporting_docs/Understanding%20and%20Managing%20Cell%20Culture%20Contamination.pdf)
+    * ### [Understanding and Managing Cell Culture Contamination](Papers/Understanding%20and%20Managing%20Cell%20Culture%20Contamination.pdf) [(original link)](https://safety.fsu.edu/safety_manual/supporting_docs/Understanding%20and%20Managing%20Cell%20Culture%20Contamination.pdf)
 * ## Books
     * ### [CELL CULTURE BASICS Handbook](Books/CellCultureBasicsEU.pdf) [(original link)](https://www.vanderbilt.edu/viibre/CellCultureBasicsEU.pdf)
 * ## References
